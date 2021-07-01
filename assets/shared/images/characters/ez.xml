@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ez.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ez dancing beat0000" x="0" y="0" width="699" height="614" frameX="-2" frameY="-10" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0001" x="701" y="0" width="703" height="614" frameX="0" frameY="-10" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0002" x="1406" y="0" width="703" height="612" frameX="0" frameY="-12" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0003" x="2111" y="0" width="699" height="612" frameX="-2" frameY="-12" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0004" x="2812" y="0" width="699" height="617" frameX="-2" frameY="-7" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0005" x="0" y="619" width="699" height="617" frameX="-2" frameY="-7" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0006" x="701" y="619" width="699" height="617" frameX="-2" frameY="-7" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0007" x="1402" y="619" width="699" height="624" frameX="-2" frameY="0" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0008" x="1402" y="619" width="699" height="624" frameX="-2" frameY="0" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0009" x="1402" y="619" width="699" height="624" frameX="-2" frameY="0" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0010" x="2103" y="619" width="699" height="624" frameX="-2" frameY="0" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0011" x="2103" y="619" width="699" height="624" frameX="-2" frameY="0" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0012" x="2103" y="619" width="699" height="624" frameX="-2" frameY="0" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0013" x="2804" y="619" width="699" height="623" frameX="-2" frameY="-1" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0014" x="2804" y="619" width="699" height="623" frameX="-2" frameY="-1" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0015" x="0" y="1245" width="699" height="617" frameX="-2" frameY="-7" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0016" x="701" y="1245" width="703" height="617" frameX="0" frameY="-7" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0017" x="1406" y="1245" width="703" height="616" frameX="0" frameY="-8" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0018" x="2111" y="1245" width="699" height="616" frameX="-2" frameY="-8" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0019" x="2812" y="1245" width="699" height="615" frameX="-2" frameY="-9" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0020" x="0" y="1864" width="699" height="615" frameX="-2" frameY="-9" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0021" x="701" y="1864" width="699" height="614" frameX="-2" frameY="-10" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0022" x="1402" y="1864" width="699" height="623" frameX="-2" frameY="-1" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0023" x="1402" y="1864" width="699" height="623" frameX="-2" frameY="-1" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0024" x="1402" y="1864" width="699" height="623" frameX="-2" frameY="-1" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0025" x="2103" y="1864" width="699" height="622" frameX="-2" frameY="-2" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0026" x="2103" y="1864" width="699" height="622" frameX="-2" frameY="-2" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0027" x="2103" y="1864" width="699" height="622" frameX="-2" frameY="-2" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0028" x="2804" y="1864" width="699" height="622" frameX="-2" frameY="-2" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez dancing beat0029" x="2804" y="1864" width="699" height="622" frameX="-2" frameY="-2" frameWidth="703" frameHeight="624"/>
+	<SubTexture name="ez sad0000" x="0" y="2489" width="699" height="613"/>
+	<SubTexture name="ez sad0001" x="0" y="2489" width="699" height="613"/>
+	<SubTexture name="ez sad0002" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0003" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0004" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0005" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0006" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0007" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0008" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0009" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0010" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0011" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0012" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0013" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0014" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0015" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0016" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0017" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0018" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0019" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0020" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0021" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0022" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0023" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0024" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0025" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0026" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0027" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0028" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0029" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0030" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0031" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0032" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0033" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0034" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0035" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0036" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0037" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0038" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0039" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0040" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0041" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0042" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0043" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0044" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0045" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0046" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0047" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0048" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0049" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0050" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0051" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0052" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0053" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0054" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0055" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0056" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0057" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0058" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0059" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0060" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0061" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0062" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0063" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0064" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0065" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0066" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0067" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0068" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0069" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0070" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0071" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0072" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0073" x="2804" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0074" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0075" x="701" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0076" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0077" x="1402" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0078" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+	<SubTexture name="ez sad0079" x="2103" y="2489" width="699" height="612" frameX="0" frameY="-1" frameWidth="699" frameHeight="613"/>
+</TextureAtlas>
